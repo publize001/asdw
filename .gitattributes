@@ -1,1 +1,2 @@
+published/Application[[:space:]]Files/**/*.exe.deploy filter=lfs diff=lfs merge=lfs -text
 **/*.exe.deploy filter=lfs diff=lfs merge=lfs -text
